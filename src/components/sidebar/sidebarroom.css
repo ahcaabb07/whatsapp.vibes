@@ -1,0 +1,19 @@
+.sidebar_room {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  cursor: pointer;
+}
+.sidebar_room:hover {
+  background-color: rgb(230, 230, 230);
+}
+.room_content {
+  margin-left: 10px;
+  flex: 1;
+}
+.room_content > h5 {
+  font-size: 14px;
+}
+.room_content > p {
+  font-size: 14px;
+}
