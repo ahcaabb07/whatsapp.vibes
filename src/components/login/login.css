@@ -1,0 +1,10 @@
+.image {
+  height: 100px;
+}
+
+.login_text {
+  position: absolute;
+  top: 35%;
+  left: 44%;
+  font-weight: 800;
+}
